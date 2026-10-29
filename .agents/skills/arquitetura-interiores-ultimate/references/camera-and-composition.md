@@ -1,0 +1,2 @@
+# Câmera e composição
+Exterior: frontal para fachada, três quartos para volumetria, vista aérea para implantação. Interior: altura dos olhos e verticais corrigidas favorecem leitura espacial; grande angular extrema distorce proporções. Não confundir isométrico ortográfico com perspectiva fotográfica. Distância focal é orientação visual proposta quando não há metadados. Nome de câmera não garante realismo. Não inventar EXIF a partir da imagem. Preservar proporção da referência se solicitada, sem inventar dimensões em pixels.

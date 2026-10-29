@@ -1,0 +1,2 @@
+# Iluminação
+Escolher luz principal e horário: diurna difusa para leitura uniforme, sol baixo para sombras longas, noturna com fontes artificiais definidas. Golden hour e meio-dia não são o mesmo horário. Iluminação interna quente pode coexistir com exterior azul no crepúsculo, com fontes identificadas. Claraboias e janelas só podem ser presumidas em criação nova; em referência não criá-las sem autorização. Preservar câmera e cenário numa variação exclusivamente luminosa.

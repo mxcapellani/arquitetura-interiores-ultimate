@@ -1,0 +1,2 @@
+# Contribuição
+Abrir proposta com pedido de exemplo, comportamento esperado e justificativa especializada. Não alterar trechos originais sem preservar a versão e a atribuição; colocar melhorias como adaptações. Não inventar item 27. Executar validador e testes de regressão. Novas capacidades precisam de casos de aceitação e indicação clara de dependências. Não adicionar credenciais ou referências privadas. Registrar resultados reais separadamente de expectativas.

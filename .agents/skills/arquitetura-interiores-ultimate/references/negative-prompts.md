@@ -1,0 +1,2 @@
+# Negativos e restrições
+Usar negativos específicos: paredes deformadas, linhas verticais convergentes quando indesejadas, aberturas extras, móveis flutuantes, reflexos incoerentes, texto ilegível e alteração do layout. Não proibir baixa contagem de polígonos em um pedido low-poly. Não tratar negativos como campo suportado universalmente; se não existir, incorporar restrições positivas claras ao prompt principal. “Sem mudanças de geometria” é direção de edição, não garantia de resultado.

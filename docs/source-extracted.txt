@@ -1,0 +1,275 @@
+30 PromptsProfissionais
+ARQUITETURA E DESIGN DE INTERIORES COM IA
+ImobLabsIA - Técnicas de Edição com IA para o Mercado Imobiliário
+
+
+Esta coleção reúne os 30 prompts mais requisitados no
+mercado global de arquitetura e design de interiores.
+Cada prompt está disponível em inglês (para uso direto nas
+ferramentas) e português (para compreensão e
+adaptação).
+COMPATÍVEL COM
+O Poder da IA na
+Visualização Arquitetônica
+
+
+Anatomia do Prompt Profissional
++ + + +
+EXEMPLO PRÁTICO:
+" Modern minimalist house , Bauhaus architecture style , concrete and glass facade , soft
+morning light, golden hour , wide angle shot, 8k resolution ."
+
+1. Sujeito
+O objeto principal da
+cena. O que estamos
+vendo?
+
+2. Estilo
+A estética visual ou
+referência artística.
+
+3. Detalhes
+Materiais, texturas e
+elementos específicos.
+
+4. Iluminação
+Atmosfera, hora do dia
+e tipo de luz.
+
+5. Câmera
+Ângulo, lente e
+configurações técnicas.
+
+
+Estrutura de um Prompt Profissional
+
+
+Arquitetura Exterior (Parte 1)
+01 Residência Minimalista
+EN "A minimalist residential house with large glass windows, surrounded by a lush garden,
+minimalist design, evening light, artistic style."
+PT "Uma casa residencial minimalista com grandes janelas de vidro, cercada por um jardim exuberante, design minimalista, luz
+noturna, estilo artístico."
+02 Fachada Fotorrealista
+EN "Photorealistic, Canon EOS 5D, minimalistic retail shop facade design, black semi-glossy color,
+geometric shaped outline, ArchDaily style, dramatic lighting."
+PT "Fotorrealista, Canon EOS 5D, design de fachada de loja minimalista, cor preta semibrilhante, contorno geométrico, estilo
+ArchDaily, iluminação dramática."
+03 Edifício Urbano
+EN "Compact multi-family apartment building in a dense urban area, brick facade with black metal
+balconies, overcast lighting."
+PT "Edifício de apartamentos multifamiliar compacto em área urbana densa, fachada de tijolos com varandas de metal preto,
+iluminação nublada."
+
+
+Prompts de Arquitetura Exterior (Parte 2)
+Edifício Corporativo
+"Contemporary office building with curtain wall glazing and solar shading fins, people walking outside, sunny midday."
+PT "Edifício de escritórios contemporâneo com fachada de vidro cortina e aletas de sombreamento solar, pessoas caminhando do lado
+de fora, meio-dia ensolarado."
+
+04
+Pousada Rural
+"Small countryside guesthouse with pitched roof, natural stone and wood materials, set in a meadow."
+PT "Pequena pousada rural com telhado inclinado, materiais de pedra natural e madeira, situada em um prado."
+
+05
+Arquitetura Brutalista
+"Futuristic cliffside building, brutalist architecture fused with glass domes, overlooking a stormy ocean, overcast sky, 16mm
+film grain."
+PT "Edifício futurista na falésia, arquitetura brutalista fundida com cúpulas de vidro, com vista para um oceano tempestuoso, céu
+nublado, grão de filme 16mm."
+
+06
+
+
+Arquitetura Exterior (Parte 3)
+07 Casa de Chá Japonesa
+"Traditional Japanese tea house reimagined with
+translucent bioplastic walls, cherry blossoms swirling in
+the wind, serene dusk lighting, 3D isometric."
+PT "Casa de chá japonesa tradicional reimaginada com paredes
+de bioplástico translúcido, flores de cerejeira girando ao vento,
+iluminação serena do crepúsculo, isométrico 3D."
+REIMAGINED BIOPLASTIC ISOMETRIC
+08 Casa Sustentável
+"Earth-sheltered desert home with curved adobe walls,
+solar panels integrated into the landscape, golden hour,
+cinematic framing."
+PT "Casa no deserto protegida pela terra com paredes curvas
+de adobe, painéis solares integrados à paisagem, hora
+dourada, enquadramento cinematográfico."
+DESERT SUSTAINABLE CINEMATIC
+09 Campus Moderno
+"College of engineering, 3D printing technology,
+sustainability techniques, modern design in Dubai."
+PT "Faculdade de engenharia, tecnologia de impressão 3D,
+técnicas de sustentabilidade, design moderno em Dubai."
+EDUCATION TECHNOLOGY DUBAI
+
+
+Prompts de Arquitetura Exterior (Parte 4)
+10 Casa Espelhada
+EN Lark architects reflect house in New Zealand, sunny day, in the style of light reflections, photo
+taken with Nikon D750, luxurious, symmetrical.
+PT Arquitetos Lark refletem casa na Nova Zelândia, dia ensolarado, no estilo de reflexos de luz, foto tirada com Nikon D750, luxuoso,
+simétrico.
+11 Residência à Beira-Mar
+EN Modern elegant and raunchy architecture house next to the beach.
+PT Casa de arquitetura moderna elegante e ousada próxima à praia.
+12 Inspiração Gaudí
+EN Modern architecture, inspired by Gaudi, minimalism, modern.
+PT Arquitetura moderna, inspirada em Gaudí, minimalismo, moderno.
+
+
+Prompts de Arquitetura Exterior (Parte 5)
+13 Casa Ecofuturista
+EN "Organic-shaped house made of clay and hempcrete, nestled in a dense jungle, eco-futuristic architecture, daylight."
+PT "Casa de formato orgânico feita de argila e concreto de cânhamo, aninhada em uma selva densa, arquitetura eco-futurista, luz do
+dia."
+14 Vila Alpina
+EN "Modern alpine villa on a snowy cliff, panoramic windows, soft interior light glowing at night, HDR, realistic materials."
+PT "Vila alpina moderna em um penhasco nevado, janelas panorâmicas, luz interior suave brilhando à noite, HDR, materiais realistas."
+15 Townhouse Histórica
+EN "Renovated historic townhouse facade in a European city, brick and stucco mix, restored windows and balcony
+railings, blue sky."
+PT "Fachada de townhouse histórica renovada em uma cidade europeia, mistura de tijolo e estuque, janelas e grades de varanda
+restauradas, céu azul."
+
+
+Prompts de Design de Interiores (Parte 1)
+16 Loft Industrial 
+"Industrial loft with hanging gardens,
+exposed concrete and greenery, soft morning
+light through steel-framed windows, hygge
+vibes."
+"Loft industrial com jardins suspensos, concreto aparente
+e vegetação, luz suave da manhã através de janelas com
+moldura de aço, vibrações hygge."
+17 Cabana Nórdica 
+"Tiny cabin interior with built-in
+furniture, multi-level sleeping areas,
+Nordic design, winter outside the window,
+cozy lighting."
+"Interior de cabana minúscula com móveis embutidos,
+áreas de dormir em vários níveis, design nórdico, inverno
+fora da janela, iluminação aconchegante."
+18 Sala Minimalista 
+"Photography, minimalism, front shot with eye level, full-frame DSLR camera, living room, brown,
+beige, and white colors, golden compositions, UHD."
+"Fotografia, minimalismo, foto frontal ao nível dos olhos, câmera DSLR full-frame, sala de estar, cores marrom, bege e branco,
+composições douradas, UHD."
+
+
+Prompts de Design de Interiores (Parte 2)
+19 Lobby de Hotel 
+"Modern hotel lobby with minimalist reception desk, warm lighting, large potted plants, natural
+stone floor tiles."
+"Lobby de hotel moderno com balcão de recepção minimalista, iluminação quente, grandes vasos de plantas, piso de pedra
+natural."
+20 Cozinha Funcional 
+"Functional small kitchen in a city apartment, white cabinetry, induction cooktop, subway tile
+backsplash, natural daylight."
+"Cozinha pequena funcional em apartamento urbano, armários brancos, cooktop de indução, backsplash de azulejo de metrô,
+luz natural."
+21 Escadaria Italiana 
+"Elegant staircase in an old Italian villa, with a marble patterned floor and a small round table
+at the bottom holding some flowers, photographed in the style of Paolo Roversi."
+"Escadaria elegante em uma antiga vila italiana, com piso de mármore estampado e uma pequena mesa redonda na base com
+algumas flores, fotografada no estilo de Paolo Roversi."
+
+
+Prompts de Design de Interiores (Parte 3)
+22
+PROMPT
+Banheiro de Luxo
+"Modern luxury bathroom interior, elegant white marble sink, matte gold faucet, wall-
+mounted toilet, large mirror with gold filigree frame, white and grey veined marble tiles,
+soft LED lighting."
+"Interior de banheiro de luxo moderno, pia de mármore branco elegante, torneira dourada fosca, vaso sanitário
+suspenso, grande espelho com moldura de filigrana dourada, azulejos de mármore com veios brancos e cinzas,
+iluminação LED suave."
+
+23
+PROMPT
+Palácio Britânico
+"Disposable photography of UK palace, dreamy mood."
+"Fotografia descartável de palácio no Reino Unido, clima de sonho."
+
+24
+PROMPT
+Apartamento Taiwanês
+"A 50 sqm apartment living room with modern Taiwan-inspired design, gray dominant color,
+natural pine wood accents, soft curves in furniture, sophisticated lighting."
+"Sala de estar de apartamento de 50 m² com design moderno inspirado em Taiwan, cor cinza dominante, detalhes em
+madeira de pinho natural, curvas suaves nos móveis, iluminação sofisticada."
+
+
+
+Prompts de Design de Interiores (Parte 4)
+PROMPT 25
+Cozinha Hi-Tech
+"Cozinha pequena com conjunto de cozinha preto e branco, piso de mármore branco, paredes
+de gesso cinza, plantas verdes em vasos, minimalismo, estilo hi-tech."
+PROMPT 26
+Sala Low-Poly
+"Sala de estar inspirada em low-poly, formas geométricas, cores vibrantes, texturas sintéticas,
+sombreamento toon, isométrico."
+> "A small kitchen with black and white kitchen set, white marble floor,
+gray plaster walls, green plants in flower pots, minimalism, hi-tech
+style."
+> "Low-poly inspired living room, geometric shapes, vibrant colors,
+synthetic textures, toon shading, isometric."
+
+
+Prompts de Design de Interiores (Parte 5)
+PROMPT 28
+Centro Biofílico
+"Centro de bem-estar biofílico com paredes de musgo vivo, claraboias, elementos de água,
+materiais de bambu, atmosfera zen."
+PROMPT 29
+Esboço em
+Aquarela "Esboço em aquarela de um quarto parisiense aconchegante, linhas soltas, cores pastel,
+artístico, sonhador."
+PROMPT 30
+Coworking
+Cyberpunk "Espaço de coworking futurista com cápsulas de vidro, iluminação neon, móveis ergonômicos
+brancos, vista da cidade à noite, estilo cyberpunk."
+> "Biophilic wellness center with living moss walls, skylights, water
+features, bamboo materials, zen atmosphere."
+> "Watercolor sketch of a cozy Parisian bedroom, loose lines, pastel
+colors, artistic, dreamy."
+> "Futuristic coworking space with glass pods, neon lighting, white
+ergonomic furniture, city view at night, cyberpunk style."
+
+
+Dicas de Otimização de Prompts
+ Iluminação (Lighting)
+Use termos específicos para definir a atmosfera e o realismo da
+cena.
+Golden hour Blue hour Cinematic lighting
+Natural light Volumetric lighting Soft shadows
+ Câmera e Ângulo
+Defina a perspectiva para controlar a composição da imagem.
+Wide angle Macro lens Drone view Eye level
+Isometric Depth of field
+ Estilo Arquitetônico
+Combine estilos para criar designs únicos e inovadores.
+Minimalist Brutalist Biophilic Industrial
+Scandinavian Futuristic
+ Materiais e Texturas
+Especifique materiais para aumentar o realismo tátil.
+Concrete Natural wood Marble Glass
+Corten steel Brick
+
+
+Transforme suas Ideias em
+Realidade Visual
+Esta coleção representa as tendências mais relevantes do mercado
+global de arquitetura e design de interiores. Use estes prompts como
+base para criar visualizações profissionais e impactantes com
+inteligência artificial.
+ImobLabsIA
+TÉCNICAS DE EDIÇÃO COM IA PARA O MERCADO
+IMOBILIÁRIO
+www.imoblabsia.com.br

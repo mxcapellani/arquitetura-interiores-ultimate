@@ -1,0 +1,3 @@
+# Limitações
+O pacote produz instruções e prompts, não um motor de renderização, CAD, BIM ou cálculo estrutural. Não valida normas, acessibilidade, orçamento ou desempenho térmico. Não promete medidas ou resolução real. Preservação de referência é direção textual sujeita ao gerador.
+Visão e acesso a PDF dependem do host. Para conclusões espaciais de PDF, ler a página visualmente. Sintaxes, APIs e compatibilidade atuais precisam ser verificadas quando utilizadas. Não há avaliação de agente original disponível. Os testes de comportamento e imagem ainda não foram executados; testes estruturais não os substituem.

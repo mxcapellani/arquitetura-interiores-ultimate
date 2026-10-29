@@ -1,0 +1,2 @@
+# Materiais e acabamentos
+Descrever suporte, cor, textura e acabamento: concreto aparente fosco, madeira com veios visíveis, vidro transparente com reflexos moderados. Combinar rugosidade e reflexos com a fonte de luz. Não chamar toda superfície de altamente refletiva. Pedra tem variação natural; tecidos têm trama e dobras; vegetação tem escala coerente. “Sustentável” no estilo não comprova certificação, conforto ou desempenho. Em alteração de material, preservar volumes, aberturas, móveis e enquadramento salvo instrução contrária.

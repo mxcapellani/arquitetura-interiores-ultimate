@@ -1,0 +1,2 @@
+# Variações controladas
+Manter um registro conceitual do prompt ativo e de seus atributos fixos. Solicitação “inclua montanhas” adiciona o cenário sem eliminar a pousada, os materiais ou a luz. Solicitação “só mude para noite” altera horário/fontes coerentes e preserva geometria, materiais e câmera. Devolver prompt inteiro em cada idioma pedido. Se houver duas cenas ativas e alvo ambíguo, perguntar qual. Evitar prometer que o gerador obedecerá perfeitamente ao bloqueio textual.

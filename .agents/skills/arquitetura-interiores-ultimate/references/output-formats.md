@@ -1,0 +1,2 @@
+# Formatos
+Padrão bilíngue: título, origem, PT-BR e EN completos. Seleção literal copia exatamente o item solicitado; adaptação informa que houve alteração. Catálogo retorna títulos/IDs; “opções com prompts” retorna textos completos. Pedido de idioma único prevalece. JSON opcional: title, origin, prompt_pt, prompt_en, constraints e assumptions; usar JSON válido sem cerca quando pedirem JSON puro. Não impor JSON à experiência padrão nem alterar traduções do original silenciosamente.
